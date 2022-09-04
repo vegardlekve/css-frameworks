@@ -17,9 +17,9 @@ Login page
 
 ## Built with
 
--HTML
--Bootstrap
--SASS
+- HTML
+- Bootstrap
+- SASS
 
 ### Installing
 ```
