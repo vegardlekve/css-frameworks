@@ -1,6 +1,6 @@
 # CSS Frameworks
 
-##Brief
+## Brief
 
 You are tasked with creating 3 pages in HTML using Bootstrap and SASS:
 
@@ -15,18 +15,18 @@ Login page
 
 - The login page should have a form to login to the application. Make sure to include HTML form validation and use /profile as the action attribute.
 
-##Built with
+## Built with
 
 -HTML
 -Bootstrap
 -SASS
 
-###Installing
+### Installing
 ```
 npm install
 ```
 
-###Executing program
+### Executing program
 ```
 npm run build
 npm run watch
